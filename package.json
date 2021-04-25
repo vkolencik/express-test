@@ -2,10 +2,7 @@
   "name": "express-test",
   "version": "1.0.0",
   "description": "",
-  "main": "functions/server.js",
   "scripts": {
-    "build": "netlify-lambda build express",
-    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
